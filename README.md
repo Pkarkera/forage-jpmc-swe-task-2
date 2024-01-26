@@ -1,5 +1,7 @@
 JPMorgan Chase & Co. Software Engineering Virtual Experience
 
+This repository contains all the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship.
+
 
 Implemented the Perspective open source code for preparing visualization of trader's data.
 
