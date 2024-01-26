@@ -1,18 +1,18 @@
-JPMorgan Chase & Co. Software Engineering Virtual Experience
+# JPMorgan Chase & Co. Software Engineering Virtual Experience
 
-This repository contains all the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship.
-
-
-Implemented the Perspective open source code for preparing visualization of trader's data.
+`This repository contains all the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship.`
 
 
-Things I learnt about this program:
+`Implemented the Perspective open source code for preparing visualization of trader's data.`
+
+
+## Things I learnt about this program:
 
 1. How to install npm so that you can work in javascript
 2. Why JPMorgan Chase created Perspective and made it available as an open source library
 
 
-Brief Info about the tasks that I worked during the course of program.
+### Brief Info about the tasks that I worked during the course of program.
 
 
 TASK 2 :
@@ -22,7 +22,7 @@ TASK 2 :
 3. Fix broken typescript files in the repository to make the web application output correctly.
 
 
-Practical skills gained:
+#### Practical skills gained:
 
 1. React js
 2. TypeScript
